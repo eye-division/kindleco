@@ -8,16 +8,16 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: A Painter
-subtitle: Great artist
-name: A Painter
-description: Demo Eye Gallery site
+title: KindleCo
+subtitle:
+name: KindleCo
+description: Kindleco.co.uk website
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
+url: "http://www.kindleco.co.uk"
 logo: "/assets/logo.png"
 email: a.ward@eyedivision.com
 
@@ -31,7 +31,7 @@ highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
+  #staging: "http://ed-eyegallery-dev.imgix.net"
   #production: "http://ed-eyegallery.imgix.net"
 
 # Collections Example

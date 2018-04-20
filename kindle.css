@@ -1,0 +1,381 @@
+body {
+		font-family: Arial, Helvetica, sans-serif; 
+		background-color: #CCCCCC;
+}
+
+#pagetable { 
+ 		width:760px; 
+		padding:0px 0px 0px 0px; 
+		text-align:left; 
+		background-color:#666699; 
+		margin: 0px auto; 
+		background-attachment: scroll; 
+		background-image: url(images/bkgd_bottom2.jpg); 
+		background-repeat: no-repeat; 
+		background-position: bottom;
+} 
+
+
+
+#contentleft {
+		width:476px;
+		float:left;
+		text-align: left; 
+		padding: 0px 23px 0px 47px;
+		margin: 0px 0px 40px 0px; 
+		font-family: Arial, Helvetica, sans-serif; color: #333333; 
+		background-image: url(images/left_bkgd2.jpg); background-repeat: no-repeat;
+; font-size: 80%
+}
+
+#contentleft_white {
+		width:476px;
+		float:left;
+		text-align: right; 
+		padding: 25px 0px 0px 0px;
+		margin: 0px 0px 0px 0px; 
+		font-family: Arial, Helvetica, sans-serif; color: #333333;
+}
+
+#contentleft_white_narrow {
+		width:476px;
+		float:left;
+		text-align: right; 
+		padding: 0px 0px;
+		margin: -16px 0px 0px; 
+		font-family: Arial, Helvetica, sans-serif; color: #333333;
+}
+
+#contentleft_white_norm {
+		width:471px;
+		float:left;
+		text-align: right;
+		padding: 0px 0px 10px;
+		margin: -10px 0px 0px; 
+		font-family: Arial, Helvetica, sans-serif; color: #666666;
+; font-style: italic
+}
+
+#contentright {
+		width:162px;
+		float:left;
+		padding: 10px 20px 20px 17px;
+		margin: 0px 0px 233px;
+		text-align: left;
+		font-family: Arial, Helvetica, sans-serif; color: #ffffff;
+		font-size: 70%;
+}
+
+#contentacross {
+		width:760px;
+		padding: 0px 0px 0px 0px;
+		font-size: 70%;
+		margin: 0px auto;
+		color: #999999;
+		text-align: left;
+}
+
+#contentacross_bott {
+		width:713px;
+		padding: 0px 0px 0px 47px;
+		font-size: 80%;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#narrow_row {
+		padding: 5px 0px 0px 0px;
+}		
+
+#links_pic {
+		width:75px;
+		padding: 10px 5px 10px 0px;
+		float:left;
+}
+		
+#links_txt {
+		width:375px;
+		padding: 10px 5px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#column_one {
+		width:220px;
+		padding: 10px 10px 10px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+		
+#column_two {
+		width:220px;
+		padding: 10px 0px 10px 10px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#column_a {
+		width:190px;
+		padding: 5px 10px 0px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#column_b {
+		width:110px;
+		padding: 5px 10px 0px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#column_c {
+		width:150px;
+		padding: 5px 0px 0px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+
+#contact_left {
+		width:85px;
+		float:left;
+ 		padding-bottom: 5px;
+}
+
+#contact_right {
+		width:150px;
+		float:left;
+ 		padding-bottom: 5px;
+}
+		
+#onecolumn {
+	text-align: justify;
+	margin: 0px;	
+	padding: 0px 0px 0px 0px;	
+}
+
+#onecolumn_contact {
+	background-color: #ffffff;
+	text-align: left;
+	margin: 0px;	
+	padding: 0px 20px 10px 20px;	
+}
+
+#studies_txt {
+		width:470px;
+		padding: 10px 5px 10px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #666699;
+		text-align: left;
+		font-weight: bold; 
+}
+
+#studies_txt_narrow {
+		width:470px;
+		padding: 2px 0px 0px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #666699;
+		text-align: left;
+		font-weight: bold; 
+}
+
+#studybody_txt {
+		width:470px;
+		padding: 0px 5px 10px 0px;
+		float:left;
+		font-family: Arial, Helvetica, sans-serif;
+		margin: 0px auto;
+		color: #333333;
+		text-align: left;
+}
+#study_pic {
+		width:150px;
+		padding: 10px 5px 10px 0px;
+		float:left;
+}
+
+	
+.greenlink { color: #666699; text-decoration: 
+underline; font-weight: normal; font-style: normal; font-variant: normal} .greenlink:hover 
+{ text-decoration: underline; color: #99CC66} 
+
+a:hover { text-decoration: underline} 
+a:link { text-decoration: none} 
+a:active { text-decoration: none} .creamlink { 
+color: #99CCFF; text-decoration: none} 
+
+.creamlink:hover { text-decoration: underline; 
+color: #99CC66} a:visited { text-decoration: none} 
+
+.stxt { font-family:Arial, 
+Helvetica, sans-serif; font-size:10px; color:#666666; ; font-weight: normal} 
+.txt 
+{ font-family:Arial, Helvetica, sans-serif; color:#333333; } 
+.newstxt { font-family:Arial, 
+Helvetica, sans-serif; color:#99CCFF; ; font-weight: bold; line-height: normal} 
+
+.stxtpic { font-family:Verdana, Arial, Helvetica, sans-serif; font-size:8px; color:#333333; 
+; font-weight: normal; line-height: normal} 
+.txtbullet { font-family:Arial, Helvetica, 
+sans-serif; font-size: 12px; line-height: 12pt; color: #663399; font-weight: normal; 
+list-style-position: outside; list-style-type: disc; left: 25px; clip: rect( )} 
+
+.txtcream { font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#666666; 
+; font-weight: bold; text-decoration: underline} 
+.titletxt { font-family:Arial, 
+Helvetica, sans-serif; color:#666699; ; font-weight: bold} .txtnav { font-family:Arial, 
+Helvetica, sans-serif; color:#666666; } 
+.bkgd { background-color: #666699; background-image: 
+none} 
+.newscontent { font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; 
+line-height: normal} 
+
+.purplelink { color: #666699; font-weight: bold} .datetxt 
+{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; 
+color: #999999} 
+
+.purplelink:hover { color: #333333; text-decoration: underline} 
+
+.txtbullet2 { font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 12px; 
+line-height: 16px; color: #666666; font-weight: normal; list-style-position: outside; 
+list-style-type: disc; left: auto; clip: rect( )} 
+.border { border: 1pt #333333 
+dotted} 
+
+.border2 { border: 1px #666666 solid} 
+.table { background-position: right; 
+height: auto; width: 760px} 
+.credits { font-family: Arial, Helvetica, sans-serif; 
+font-weight: normal; color: #333333} 
+
+.accent_txt { font-family: Arial, Helvetica, 
+sans-serif; font-weight: normal; color: #666666; font-style: italic} .subnav_txt 
+{ font-family: Arial, Helvetica, sans-serif; color: #CC6633} 
+
+.txtbulletno { font-family:Arial, 
+Helvetica, sans-serif; font-size: 12px; line-height: normal; color: #333333; font-weight: 
+normal; list-style-position: outside; list-style-type: decimal; left: 25px; clip: 
+rect( ) } 
+
+.txtbox { font-family: Arial, Helvetica, sans-serif; font-size: 80%; 
+color: #333333}
+
+.subheading {
+	font-weight: bold;
+	color: #666699;
+	margin-bottom: 0px;
+	margin-top: 2px;
+}
+
+.subsubheading {
+	font-weight: bold;
+	display: inline;
+}
+
+.news_subheading {
+	font-weight: bold;
+	color: #99CCFF;
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+.news_title {
+	font-weight: bold;
+	color: #FFFFFF;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.news_txt {
+	font-weight: normal;
+	color: #FFFFFF;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.news_link {
+	font-weight: normal;
+	color: #99CCFF;
+	margin-bottom: 0px;
+	margin-top: 0px;
+; padding-bottom: 5px
+}
+
+.textbox {
+	font-family: Arial, Helvetica, "MS Sans", sans-serif;
+}
+
+.textbox2 {
+	font-family: Arial, Helvetica, "MS Sans", sans-serif;
+ 	font-size: 100%;
+}
+
+.button_center{
+	text-align: center;
+	margin: 0px;	
+	padding: 5px;
+}
+
+/* AW Additions March 2014 */
+.main h1,
+.main h2 {
+	font-size: 1em;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	color: #669;
+	font-weight: bold;
+}
+.main .copy {
+	background: url('images/txt_spacer2.gif') no-repeat;
+}
+.about .copy {
+	padding-top: 10px;
+}
+.about .copy h2 {
+	padding-top: 10px;
+	background: url('images/txt_spacer2.gif') no-repeat;
+}
+.right {
+	display: block;
+	text-align: right;
+}
+.about blockquote {
+	margin-left: 0;
+}
+.about blockquote > p > em {
+	display: block;
+	text-align: right;
+	color: #666;
+}
+.main h1 {
+	padding: 5px 0;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-image: url('images/txt_spacer2.gif');
+}
+.main #contentleft_white {
+	float: none;
+}
