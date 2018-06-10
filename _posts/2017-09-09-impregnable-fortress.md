@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Impregnable Fortress
+title: Test title
 date: 2017-09-09 15:21:00
+categories: 
+  - News
 main_image_path: /assets/images/advert-impregnable.jpg
 images:
   - image_path: /assets/images/advert-impregnable.jpg
